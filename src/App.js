@@ -19,6 +19,7 @@ export default function App() {
     const api = "69213bbcf6dc49b0853193841230502";
     const baseUrl = `http://api.weatherapi.com/v1/forecast.json?key=${api}&q=${city}&days=3`;
 
+    //axios kısmında test edildi.
     await axios(baseUrl).then((res) => {
       setInfo(res.data);
     });
