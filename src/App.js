@@ -54,6 +54,27 @@ export default function App() {
     //yeni kodlar4 ....
     //yeni kodlar4 ....
 
+    //screen 1 development
+    //screen 1 development
+    //screen 1 development
+    //screen 1 development
+    //screen 1 development
+    //screen 1 development
+
+    //screen 2 development
+    //screen 2 development
+    //screen 2 development
+    //screen 2 development
+    //screen 2 development
+    //screen 2 development
+
+    //screen 3 development
+    //screen 3 development
+    //screen 3 development
+    //screen 3 development
+    //screen 3 development
+    //screen 3 development
+
 
 
     setState(true);
