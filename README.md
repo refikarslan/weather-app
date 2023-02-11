@@ -1,3 +1,7 @@
 # weather-app
 
-# inital-commit
+```
+1-inital-commit
+2-project commit 
+
+```
